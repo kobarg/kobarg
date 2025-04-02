@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Atualmente estou estudando JavaScript, Python e SQL.
+Estou em fase de migração de carreira
+
+
+
 <!--
 **kobarg/kobarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
