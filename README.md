@@ -1,21 +1,46 @@
-## Hi there 👋
+### Olá! Eu sou o Ricardo Kobarg 👋
 
-Atualmente estou estudando JavaScript, Python e SQL.
-Estou em fase de migração de carreira
+Atualmente, estou mergulhando de cabeça no mundo da **TI**, com foco em:
 
+- 🐍 **Python**
+- 💻 **JavaScript**
+- 🗃️ **SQL**
 
+Venho de uma trajetória diversa — com experiências em entretenimento, comunicação e administração — e agora estou direcionando minha energia e criatividade para a área de desenvolvimento.
 
-<!--
-**kobarg/kobarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 O que estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estrutura de dados e algoritmos
+- Desenvolvimento web (frontend & backend)
+- Banco de dados relacionais
+- Projetos práticos com foco em **resolução de problemas do mundo real**
+- Análise de dados (Data Science)
+
+---
+
+### 📌 Meus objetivos com a programação:
+
+- Criar soluções úteis e acessíveis
+- Unir tecnologia, criatividade e comunicação
+- Contribuir com projetos open-source (em breve!)
+
+---
+
+### 📫 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-kobarg)  
+[![Instagram](https://img.shields.io/badge/@ricardokobarg-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ricardokobarg)  
+
+---
+
+### ✨ Curiosidades:
+
+- 🎤 Trabalho também como cantor, produtor musical e dublador
+- 🎓 Tenho formação em Administração com MBA em Marketing
+- 🎯 Apaixonado por aprender coisas novas e por desafios que exigem **criatividade + lógica**
+
+---
+
+> “Não é sobre onde você começa, é sobre onde você decide chegar.” 🚀
