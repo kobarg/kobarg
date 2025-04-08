@@ -18,6 +18,14 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 - Projetos práticos com foco em **resolução de problemas do mundo real**
 - Análise de dados (Data Science)
 
+  <div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/34743864?s=200&v=4" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="40" />
+</div>
+
 ---
 
 ### 📌 Meus objetivos com a programação:
