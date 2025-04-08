@@ -43,4 +43,8 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 
 ---
 
+### Estatísticas do GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobarg&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobarg&layout=donut-vertical)](https://github.com/kobarg/github-readme-stats)
+
 > “Não é sobre onde você começa, é sobre onde você decide chegar.” 🚀
