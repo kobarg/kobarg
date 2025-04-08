@@ -38,7 +38,7 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-kobarg)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardokobarg/)  
 [![Instagram](https://img.shields.io/badge/@ricardokobarg-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ricardokobarg)  
 
 ---
