@@ -63,7 +63,14 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 ---
 
 ### Estatísticas do GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobarg&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobarg&layout=donut-vertical)](https://github.com/kobarg/github-readme-stats)
+
+<a href="https://github.com/kobarg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kobarg&show_icons=true&theme=dark&locale=pt-br" />
+</a>
+<a href="https://github.com/kobarg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobarg&show_icons=true&theme=dark&locale=pt-br" />
+</a>
+
+---
 
 > “Dar o primeiro passo já é chegar” - Beck, Jardel. 🚀
