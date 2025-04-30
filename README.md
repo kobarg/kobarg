@@ -17,19 +17,25 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 - 🎨 CSS3
 - 🛠️ VS Code
 - 🎮 WWise
+
+<p></p>
   
 - Estrutura de dados e algoritmos
 - Desenvolvimento web (frontend & backend)
 - Banco de dados relacionais
 - Projetos práticos com foco em **resolução de problemas do mundo real**
 - Análise de dados (Data Science)
+  
+<p></p>
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/34743864?s=200&v=4" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="40" />
+<div dir="auto"><br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Roberta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Roberta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Roberta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Roberta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"><img align="center" alt="Roberta-Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"><img align="center" alt="Roberta-PostgreSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.audiokinetic.com/jakhub/assets/wwise_logo_rgb-77Awrfoo.png"><img align="center" alt="Roberta-SpringBoot" height="30" width="40" src="https://www.audiokinetic.com/jakhub/assets/wwise_logo_rgb-77Awrfoo.png" style="max-width: 100%;"></a>
 </div>
 
 ---
