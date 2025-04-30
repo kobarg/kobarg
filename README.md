@@ -3,8 +3,6 @@
 Atualmente, estou mergulhando de cabeça no mundo da **TI**, com foco em:
 
 - 🐍 **Python**
-- 💻 **JavaScript**
-- 🗃️ **SQL**
 
 Venho de uma trajetória diversa — com experiências em entretenimento, comunicação e administração — e agora estou direcionando minha energia e criatividade para a área de desenvolvimento.
 
@@ -12,13 +10,21 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 
 ### 🚀 O que estou estudando:
 
+- 💻 JavaScript
+- 🗃️ SQL (DBeaver)
+- 🔹 GitHub
+- 🧱 HTML5
+- 🎨 CSS3
+- 🛠️ VS Code
+- 🎮 WWise
+  
 - Estrutura de dados e algoritmos
 - Desenvolvimento web (frontend & backend)
 - Banco de dados relacionais
 - Projetos práticos com foco em **resolução de problemas do mundo real**
 - Análise de dados (Data Science)
 
-  <div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
@@ -54,4 +60,4 @@ Venho de uma trajetória diversa — com experiências em entretenimento, comuni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobarg&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobarg&layout=donut-vertical)](https://github.com/kobarg/github-readme-stats)
 
-> “Não é sobre onde você começa, é sobre onde você decide chegar.” 🚀
+> “Dar o primeiro passo já é chegar” - Beck, Jardel. 🚀
